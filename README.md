@@ -70,7 +70,7 @@ This avoids the need to manually create, manage, and join threads — making Ope
 |------------------|----------------------------------------|
 | **CPU Model**     | Intel Core i5-9300H @ 2.40GHz          |
 | **Cores**         | 4 physical cores                       |
-| **OS**            | [Windows 11] |
+| **OS**            | Windows 11 |
 
 ---
 
