@@ -31,25 +31,6 @@ These comparisons are independent within each phase, making the algorithm **natu
 
 ---
 
-## 🗂️ Folder Structure
-
-Parallel-Porject1/
-├── src/
-│   ├── sequential.cpp         # Sequential implementation
-│   ├── parallel.cpp           # Pthreads implementation (Project 1)
-│   └── parallel_omp.cpp       # OpenMP implementation (Project 2)
-├── results/
-│   ├── timing_data.csv        # Timing results (Pthreads + OpenMP)
-│   └── validation.txt         # Output verification
-├── docs/
-│   ├── report.pdf             # Full project report
-│   └── graphs/
-│       ├── time_vs_threads.png
-│       └── speedup_vs_threads.png
-└── README.md
-
----
-
 ## 🚀 How to Compile and Run
 
 ### 🔧 Pthreads
